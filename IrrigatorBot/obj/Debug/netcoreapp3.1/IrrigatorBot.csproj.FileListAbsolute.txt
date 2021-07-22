@@ -1,0 +1,13 @@
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\bin\Debug\netcoreapp3.1\IrrigatorBot.exe
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\bin\Debug\netcoreapp3.1\IrrigatorBot.deps.json
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\bin\Debug\netcoreapp3.1\IrrigatorBot.runtimeconfig.json
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\bin\Debug\netcoreapp3.1\IrrigatorBot.runtimeconfig.dev.json
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\bin\Debug\netcoreapp3.1\IrrigatorBot.dll
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\bin\Debug\netcoreapp3.1\IrrigatorBot.pdb
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\obj\Debug\netcoreapp3.1\IrrigatorBot.csproj.AssemblyReference.cache
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\obj\Debug\netcoreapp3.1\IrrigatorBot.AssemblyInfoInputs.cache
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\obj\Debug\netcoreapp3.1\IrrigatorBot.AssemblyInfo.cs
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\obj\Debug\netcoreapp3.1\IrrigatorBot.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\obj\Debug\netcoreapp3.1\IrrigatorBot.dll
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\obj\Debug\netcoreapp3.1\IrrigatorBot.pdb
+C:\Users\Bruno Stacheski\source\repos\IrrigatorBot\IrrigatorBot\obj\Debug\netcoreapp3.1\IrrigatorBot.genruntimeconfig.cache
